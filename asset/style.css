@@ -150,7 +150,7 @@ html {
   position: relative;
   margin-top: 45px;
   padding-top: 50%;
-  background: url("/F8-Shop/F8_The_band/asset/Slider/chicago.jpg") top center /
+  background: url("./asset/Slider/chicago.jpg") top center /
     cover no-repeat;
 }
 #slider .text-content {
